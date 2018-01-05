@@ -1,0 +1,4 @@
+Numer Dania, Nazwa Dania, Rodzaj Dania
+1/ Pierogi Ruskie/ Obiad
+2/ Jajecznica z kielbasa/ Sniadanie
+3/ Lody Smietankowe/ Deser
